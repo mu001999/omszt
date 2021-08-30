@@ -12,3 +12,7 @@
     ```
     cp omszt.zsh-theme ${ZSH_THEMES:-~/.oh-my-zsh/themes}/
     ```
+3. set `ZSH_THEME` to `omszt` in your ~/.zshrc:
+    ```
+    ZSH_THEME=omszt
+    ```

@@ -2,6 +2,8 @@
 
 > For oh-my-zsh
 
+![](preview.png)
+
 ### Usage
 
 1. Add `shrink-path` to the plugins array in your .zshrc file:

@@ -18,5 +18,5 @@
     ```
 3. Set `ZSH_THEME` to `omszt` in your ~/.zshrc:
     ```
-    ZSH_THEME=omszt
+    ZSH_THEME="omszt"
     ```
